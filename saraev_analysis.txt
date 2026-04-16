@@ -1,0 +1,84 @@
+--- KEYWORD: DIRECTIVE (152 mentions) ---
+- {'duration': 4.24, 'start': 28.4, 'text': 'flow, the DO framework, directive'}, {'duration': 4.56, 'start': 30.56,
+- {'duration': 3.92, 'start': 1195.28, 'text': 'come out. One is directive orchestration'}, {'duration': 3.039, 'start': 1197.52,
+- {'duration': 3.76, 'start': 1742.72, 'text': 'directives and execution scripts. This'}, {'duration': 3.84, 'start': 1744.559,
+- {'duration': 2.88, 'start': 2018.32, 'text': "providing structured directives. I'm"}, {'duration': 2.801, 'start': 2020.159,
+- {'duration': 5.12, 'start': 2116.88, 'text': 'models in the do directive orchestration'}, {'duration': 3.6, 'start': 2119.44,
+- {'duration': 4.24, 'start': 2914.16, 'text': 'this with the directive orchestration um'}, {'duration': 3.36, 'start': 2916.88,
+- {'duration': 2.96, 'start': 3139.599, 'text': 'directive orchestration execution'}, {'duration': 2.559, 'start': 3141.04,
+- {'duration': 4.959, 'start': 3784.16, 'text': 'directive orchestration and execution'}, {'duration': 5.76, 'start': 3786.16,
+- {'duration': 4.96, 'start': 3789.119, 'text': 'concerns. Directives up at the very top'}, {'duration': 4.96, 'start': 3791.92,
+- {'duration': 3.839, 'start': 4187.52, 'text': 'DO directive orchestration execution'}, {'duration': 3.119, 'start': 4189.6,
+
+--- KEYWORD: ORCHESTRATION (19 mentions) ---
+- {'duration': 4.56, 'start': 30.56, 'text': 'orchestration and execution, claude'}, {'duration': 4.32, 'start': 32.64,
+- {'duration': 3.12, 'start': 1812.96, 'text': 'the fifth is orchestration. I think I'}, {'duration': 3.76, 'start': 1814.399,
+- {'duration': 3.92, 'start': 1816.08, 'text': 'that. But orchestration. I use a simple'}, {'duration': 3.681, 'start': 1818.159,
+- {'duration': 2.799, 'start': 1856.24, 'text': 'orchestration, which is where you'}, {'duration': 3.36, 'start': 1857.36,
+- {'duration': 3.439, 'start': 2823.68, 'text': 'orchestration or coordination layer. The'}, {'duration': 3.28, 'start': 2825.68,
+- {'duration': 4.0, 'start': 2832.72, 'text': "reflection. Okay, orchestration doesn't"}, {'duration': 3.36, 'start': 2835.2,
+- {'duration': 4.16, 'start': 2876.56, 'text': "orchestration. uh there's an approach"}, {'duration': 4.0, 'start': 2878.72,
+- {'duration': 4.64, 'start': 3800.0, 'text': 'knowledge ladder. Orchestration, if you'}, {'duration': 4.399, 'start': 3802.64,
+- {'duration': 5.681, 'start': 6406.239, 'text': 'orchestration layer. Your orchestration'}, {'duration': 5.281, 'start': 6408.719,
+- {'duration': 3.761, 'start': 7075.599, 'text': 'which is orchestration. This is kind of'}, {'duration': 3.839, 'start': 7077.28,
+
+--- KEYWORD: EXECUTION (74 mentions) ---
+- {'duration': 3.039, 'start': 1197.52, 'text': "execution. This is the framework I'm"}, {'duration': 2.8, 'start': 1199.2,
+- {'duration': 3.52, 'start': 1612.159, 'text': 'also have autonomy, long execution'}, {'duration': 3.6, 'start': 1613.76,
+- {'duration': 3.6, 'start': 2119.44, 'text': 'execution framework in cloud skills in a'}, {'duration': 3.2, 'start': 2122.0,
+- {'duration': 3.36, 'start': 2916.88, 'text': 'execution framework and then cloud'}, {'duration': 5.52, 'start': 2918.4,
+- {'duration': 4.321, 'start': 3810.319, 'text': 'And then execution scripts are the'}, {'duration': 4.48, 'start': 3812.559,
+- {'duration': 3.279, 'start': 4167.92, 'text': "the script handles execution. That's a"}, {'duration': 3.04, 'start': 4169.679,
+- {'duration': 4.799, 'start': 4503.92, 'text': 'execution folder as we guys see here. Uh'}, {'duration': 4.0, 'start': 4506.239,
+- {'duration': 2.639, 'start': 4547.04, 'text': 'folder here and then the execution'}, {'duration': 2.48, 'start': 4548.32,
+- {'duration': 3.119, 'start': 4863.04, 'text': 'execution script, is you have to run it.'}, {'duration': 3.279, 'start': 4864.88,
+- {'duration': 3.36, 'start': 4910.48, 'text': 'the entire execution loop autonomously.'}, {'duration': 2.96, 'start': 4912.56,
+
+--- KEYWORD: DOE (131 mentions) ---
+- {'duration': 3.68, 'start': 35.12, 'text': 'each one does, when to use which and how'}, {'duration': 3.759, 'start': 36.96,
+- {'duration': 3.681, 'start': 365.039, 'text': "does so through uh what's called an MCP,"}, {'duration': 3.841, 'start': 367.039,
+- {'duration': 2.88, 'start': 837.68, 'text': 'and then eventually doer using a'}, {'duration': 2.96, 'start': 839.6,
+- {'duration': 3.92, 'start': 1033.36, 'text': 'that does. The bug, if flux is missing,'}, {'duration': 3.039, 'start': 1035.76,
+- {'duration': 2.799, 'start': 1916.48, 'text': "it's important that it does it right"}, {'duration': 3.199, 'start': 1917.84,
+- {'duration': 3.52, 'start': 2054.0, 'text': "doesn't have a window. Second one has a"}, {'duration': 4.24, 'start': 2055.28,
+- {'duration': 3.361, 'start': 2075.919, 'text': 'code. It does the coding for you, but it'}, {'duration': 3.36, 'start': 2077.44,
+- {'duration': 3.52, 'start': 2415.76, 'text': "the workflow doesn't work, the error"}, {'duration': 4.0, 'start': 2417.28,
+- {'duration': 7.36, 'start': 2496.8, 'text': 'that does. There is a cut point right'}, {'duration': 6.081, 'start': 2499.839,
+- {'duration': 3.44, 'start': 2712.96, 'text': 'What it does is it makes a bunch of'}, {'duration': 4.16, 'start': 2714.24,
+
+--- KEYWORD: SUPABASE (0 mentions) ---
+
+--- KEYWORD: MODAL (36 mentions) ---
+- {'duration': 3.281, 'start': 16346.319, 'text': 'modal, um models can read the errors'}, {'duration': 2.561, 'start': 16348.319,
+- {'duration': 2.561, 'start': 16348.319, 'text': 'from modal really easily. So you can'}, {'duration': 2.4, 'start': 16349.6,
+- {'duration': 4.558, 'start': 16404.561, 'text': 'called modal. Modal is not the only'}, {'duration': 4.401, 'start': 16407.359,
+- {'duration': 2.961, 'start': 16413.279, 'text': 'modal is just a good product.'}, {'duration': 2.721, 'start': 16414.879,
+- {'duration': 3.6, 'start': 16421.119, 'text': 'essentially the way that u modal works'}, {'duration': 3.441, 'start': 16422.639,
+- {'duration': 3.199, 'start': 16458.561, 'text': 'else. Now, the web hook URLs that modal'}, {'duration': 2.56, 'start': 16460.639,
+- {'duration': 3.92, 'start': 16595.039, 'text': 'on modal. Here\'s how to do so." What it'}, {'duration': 2.88, 'start': 16597.52,
+- {'duration': 3.519, 'start': 16601.92, 'text': 'everything in a simple format that modal'}, {'duration': 3.599, 'start': 16603.52,
+- {'duration': 4.399, 'start': 16614.24, 'text': 'modals format once deployed you get a'}, {'duration': 4.08, 'start': 16616.24,
+- {'duration': 3.439, 'start': 16689.6, 'text': 'supported by Modal and our agents out of'}, {'duration': 3.202, 'start': 16691.359,
+
+--- KEYWORD: LANGGRAPH (0 mentions) ---
+
+--- KEYWORD: CREWAI (0 mentions) ---
+
+--- KEYWORD: AGENCY (11 mentions) ---
+- {'duration': 3.36, 'start': 8343.359, 'text': "creative agency. I'm going to pretend"}, {'duration': 4.4, 'start': 8344.8,
+- {'duration': 4.4, 'start': 8344.8, 'text': "I'm a creative agency here. You can see"}, {'duration': 4.96, 'start': 8346.719,
+- {'duration': 7.12, 'start': 8406.64, 'text': 'my agency. All of the CRM information is'}, {'duration': 5.52, 'start': 8410.72, 'text': 'stored inside of the'}, {'duration': 4.16,
+- 'start': 8416.24, 'text': "see what it's called. Template creative"}, {'duration': 3.479, 'start': 8417.92, 'text': 'agency space.'}, {'duration': 4.481, 'start': 8422.319,
+- {'duration': 6.56, 'start': 8793.2, 'text': "creative agency uh uh space. I'd like"}, {'duration': 8.32, 'start': 8796.56,
+- {'duration': 10.4, 'start': 8799.76, 'text': 'the template creative agency space.'}, {'duration': 8.4, 'start': 8804.88,
+- {'duration': 3.599, 'start': 13067.84, 'text': 'predominantly like a cold email agency.'}, {'duration': 2.96, 'start': 13069.68,
+- {'duration': 5.76, 'start': 18053.84, 'text': 'AI enabled agency. We basically help you'}, {'duration': 5.122, 'start': 18056.958,
+- {'duration': 3.84, 'start': 18104.958, 'text': 'older school agency things. I need to'}, {'duration': 3.04, 'start': 18107.12,
+- {'duration': 4.88, 'start': 18133.44, 'text': 'basically my end to-end agency flow'}, {'duration': 4.8, 'start': 18135.76,
+
+--- KEYWORD: PRICING (4 mentions) ---
+- {'duration': 3.201, 'start': 376.639, 'text': 'meal plans, pricing for higher volume'}, {'duration': 3.201, 'start': 378.319,
+- {'duration': 3.521, 'start': 405.199, 'text': 'pricing looks like and how your delivery'}, {'duration': 3.039, 'start': 407.28,
+- {'duration': 3.121, 'start': 5550.159, 'text': 'information here about pricing and so on'}, {'duration': 2.721, 'start': 5552.159,
+- {'duration': 3.2, 'start': 6230.08, 'text': 'the pricing. Immediately afterwards,'}, {'duration': 5.76, 'start': 6231.76,
+

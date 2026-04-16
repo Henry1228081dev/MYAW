@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Temp/Logs
+tmp/
+*.log
+npm-debug.log*
+yarn-error.log*
+.firecrawl/
+
+# Artifacts/Junk
+scratch/
+test123.*
+*.bak
+*_old.*
+*_backup.*
+*_copy.*
+
+# Large Files (optional but recommended for git hygiene)
+# Kittl's Graphi Design Trend 2026 Report.pdf
+# MxyRjL7NG18_transcript.txt

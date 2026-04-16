@@ -1,0 +1,17 @@
+services:
+  app:
+    build: .
+    container_name: agentic-workspace-app
+    volumes:
+      - .:/app
+      - /app/node_modules
+    env_file:
+      - .env
+    ports:
+      - "3000:3000"
+      - "3030:3030"
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+# Optional: Add other services like a database if needed in the future
